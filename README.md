@@ -1,5 +1,7 @@
 # Amazon-Clone
 
+Using ReactApp
+
 ## MERN AMAZON
 
 ### 1. Setup:
